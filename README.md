@@ -13,3 +13,7 @@ This is a YT downloader created using Python
 ## Third steps
 
 - Download button functionality
+
+## Last steps
+
+- Added progress bar and percentage visuals
