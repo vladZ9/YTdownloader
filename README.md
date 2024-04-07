@@ -10,6 +10,6 @@ This is a YT downloader created using Python
 
 - Adding UI elements
 
-## Third steps 
+## Third steps
 
-- Download button Functionality
+- Download button functionality
