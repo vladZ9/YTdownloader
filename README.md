@@ -4,4 +4,12 @@ This is a YT downloader created using Python
 
 ## First steps
 
-- Frontend contains the design
+- System Settings
+
+## Second steps
+
+- Adding UI elements
+
+## Third steps 
+
+- Download button Functionality
